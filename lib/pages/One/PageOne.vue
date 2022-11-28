@@ -1,10 +1,10 @@
 <template>
-    <div>
+    <div id="one-main-container">
         <h1>
             Module One 
         </h1>
         <p>
-            Module one's body
+            Module one's body (should be blue)
         </p>
         <p>
             {{ bodyString }}
@@ -23,6 +23,11 @@ export default {
 </script>
 
 <style lang="scss">
-@import "@/";
+p {
+    color: blue;
+}
 
+#one-main-container {
+    border: 5px solid orchid;
+}
 </style>

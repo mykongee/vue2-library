@@ -5,3 +5,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+https://electric-november-384.notion.site/vue2-vite-84d0df68bd474bd0a028459c9095b8b6
